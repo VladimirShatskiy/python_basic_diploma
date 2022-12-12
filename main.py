@@ -105,4 +105,5 @@ def hotel_history_writer(func: str) -> Callable:
 
 
 if __name__ == '__main__':
+
     start_bot()

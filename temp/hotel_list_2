@@ -1,0 +1,401 @@
+[
+    {
+        "name": "Loft Hostel Minsk",
+        "id": "27488019",
+        "distance": 0.9,
+        "price": 6.14,
+        "image_main": "https://images.trvl-media.com/hotels/28000000/27490000/27488100/27488019/3bb6ed97.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Hostel Urban",
+        "id": "37894004",
+        "distance": 0.45,
+        "price": 9.65,
+        "image_main": "https://images.trvl-media.com/hotels/38000000/37900000/37894100/37894004/e1996b4c.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "IT Time Hotel",
+        "id": "12362064",
+        "distance": 5.26,
+        "price": 15.94,
+        "image_main": "https://images.trvl-media.com/hotels/13000000/12370000/12362100/12362064/06242c90.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "East Time Hotel",
+        "id": "12362012",
+        "distance": 2.26,
+        "price": 18.74,
+        "image_main": "https://images.trvl-media.com/hotels/13000000/12370000/12362100/12362012/eaad9f4d.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Voyage Hotel",
+        "id": "15948765",
+        "distance": 4.56,
+        "price": 19.12,
+        "image_main": "https://images.trvl-media.com/hotels/16000000/15950000/15948800/15948765/f6065b47.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Aparton",
+        "id": "4727804",
+        "distance": 0.49,
+        "price": 22,
+        "image_main": "https://images.trvl-media.com/hotels/5000000/4730000/4727900/4727804/45e630c6.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "StudioMinsk Spa Apartments in Centre",
+        "id": "37796583",
+        "distance": 0,
+        "price": 23.25,
+        "image_main": "https://images.trvl-media.com/hotels/38000000/37800000/37796600/37796583/badec3d3.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "StudioMinsk Apartments in Centre",
+        "id": "37977298",
+        "distance": 0.86,
+        "price": 23.25,
+        "image_main": "https://images.trvl-media.com/hotels/38000000/37980000/37977300/37977298/9e3274d7.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "StudioMinsk in Historic Centre",
+        "id": "37977169",
+        "distance": 0.29,
+        "price": 23.48,
+        "image_main": "https://images.trvl-media.com/hotels/38000000/37980000/37977200/37977169/d5818562.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Apart Prestige",
+        "id": "11723507",
+        "distance": 0.52,
+        "price": 25.14,
+        "image_main": "https://images.trvl-media.com/hotels/12000000/11730000/11723600/11723507/2faf8f3c.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": " iRent",
+        "id": "39658446",
+        "distance": 1.08,
+        "price": 25.83,
+        "image_main": "https://images.trvl-media.com/hotels/40000000/39660000/39658500/39658446/ba31f8e3.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "iRent.by Lenina sq.",
+        "id": "39658360",
+        "distance": 0.89,
+        "price": 27,
+        "image_main": "https://images.trvl-media.com/hotels/40000000/39660000/39658400/39658360/1ab6610d.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "iRent.by Yakuba Kolasa sq.",
+        "id": "39658222",
+        "distance": 1.31,
+        "price": 27.75,
+        "image_main": "https://images.trvl-media.com/hotels/40000000/39660000/39658300/39658222/5bd39366.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "iRent.by Pobedy square",
+        "id": "39349208",
+        "distance": 0.5,
+        "price": 28.95,
+        "image_main": "https://images.trvl-media.com/hotels/40000000/39350000/39349300/39349208/70323d04.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Usadba Silichi",
+        "id": "29963869",
+        "distance": 20.19,
+        "price": 29.17,
+        "image_main": "https://images.trvl-media.com/hotels/30000000/29970000/29963900/29963869/2cce3216.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Sport Time Hotel",
+        "id": "12361655",
+        "distance": 4.01,
+        "price": 29.42,
+        "image_main": "https://images.trvl-media.com/hotels/13000000/12370000/12361700/12361655/478bd876.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Hot Tub VIP SMART ApartHotel",
+        "id": "49272568",
+        "distance": 1.85,
+        "price": 31.26,
+        "image_main": "https://images.trvl-media.com/hotels/50000000/49280000/49272600/49272568/910aad2e.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Sputnik",
+        "id": "2917890",
+        "distance": 2.14,
+        "price": 32.58,
+        "image_main": "https://images.trvl-media.com/hotels/3000000/2920000/2917900/2917890/6f62f5f9.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Apartments at the Academy of Sciences",
+        "id": "23474855",
+        "distance": 1.94,
+        "price": 36.1,
+        "image_main": "https://images.trvl-media.com/hotels/24000000/23480000/23474900/23474855/0917ba3a.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "IBB Hotel",
+        "id": "19668493",
+        "distance": 3.93,
+        "price": 36.29,
+        "image_main": "https://images.trvl-media.com/hotels/20000000/19670000/19668500/19668493/575e79d0.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Apartments on Myasnikova",
+        "id": "23474616",
+        "distance": 0.91,
+        "price": 36.46,
+        "image_main": "https://images.trvl-media.com/hotels/24000000/23480000/23474700/23474616/160767d6.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Vip-kvartira Leningradskaya 1 3 5",
+        "id": "23314360",
+        "distance": 0.94,
+        "price": 38.99,
+        "image_main": "https://images.trvl-media.com/hotels/24000000/23320000/23314400/23314360/c4bc9a2e.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Garni Hotel",
+        "id": "5945435",
+        "distance": 0.38,
+        "price": 39.2,
+        "image_main": "https://images.trvl-media.com/hotels/6000000/5950000/5945500/5945435/aea788a1.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "apartments on Lenina 4",
+        "id": "74278519",
+        "distance": 0.27,
+        "price": 41.77,
+        "image_main": "https://images.trvl-media.com/hotels/75000000/74280000/74278600/74278519/0a91e4d2.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Aqua-Minsk Hotel Plus",
+        "id": "35883851",
+        "distance": 2.87,
+        "price": 42,
+        "image_main": "https://images.trvl-media.com/hotels/36000000/35890000/35883900/35883851/c6da8cc8.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Willing Hotel",
+        "id": "33214963",
+        "distance": 1.22,
+        "price": 45,
+        "image_main": "https://images.trvl-media.com/hotels/34000000/33220000/33215000/33214963/de01f2f4.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Apartamenty na Yakuba Kolasa",
+        "id": "23382375",
+        "distance": 1.22,
+        "price": 45.57,
+        "image_main": "https://images.trvl-media.com/hotels/24000000/23390000/23382400/23382375/0fefb9ec.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Apartamenty na Oktyabrskoy",
+        "id": "31044937",
+        "distance": 0.24,
+        "price": 46.87,
+        "image_main": "https://images.trvl-media.com/hotels/32000000/31050000/31045000/31044937/9a35eda3.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Belarus Hotel",
+        "id": "520671",
+        "distance": 0.89,
+        "price": 48,
+        "image_main": "https://images.trvl-media.com/hotels/1000000/530000/520700/520671/18e8400d.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Aparthotel",
+        "id": "19466014",
+        "distance": 6.17,
+        "price": 50.12,
+        "image_main": "https://images.trvl-media.com/hotels/20000000/19470000/19466100/19466014/75be1c09.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Hotel Victoria Minsk",
+        "id": "1802457",
+        "distance": 1.82,
+        "price": 50.66,
+        "image_main": "https://images.trvl-media.com/hotels/2000000/1810000/1802500/1802457/182274c4.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Aqua-Minsk Hotel",
+        "id": "18353398",
+        "distance": 5.43,
+        "price": 51.34,
+        "image_main": "https://images.trvl-media.com/hotels/19000000/18360000/18353400/18353398/de511603.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Bonhotel",
+        "id": "8701870",
+        "distance": 2.31,
+        "price": 51.45,
+        "image_main": "https://images.trvl-media.com/hotels/9000000/8710000/8701900/8701870/ec73736d.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Apartamenty na Oktyabrskoy",
+        "id": "23474878",
+        "distance": 3.56,
+        "price": 51.56,
+        "image_main": "https://images.trvl-media.com/hotels/24000000/23480000/23474900/23474878/23c69f1f.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Apartments near Train Station",
+        "id": "64172459",
+        "distance": 0.96,
+        "price": 51.56,
+        "image_main": "https://images.trvl-media.com/hotels/65000000/64180000/64172500/64172459/ce2e9e01.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Minsklux Apartments",
+        "id": "19142856",
+        "distance": 0.53,
+        "price": 53.08,
+        "image_main": "https://images.trvl-media.com/hotels/20000000/19150000/19142900/19142856/438527e9.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "apartments on Nemiga",
+        "id": "68101925",
+        "distance": 0.54,
+        "price": 55.69,
+        "image_main": "https://images.trvl-media.com/hotels/69000000/68110000/68102000/68101925/7702ae5f.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Apartments Lenina",
+        "id": "23315180",
+        "distance": 0.24,
+        "price": 55.69,
+        "image_main": "https://images.trvl-media.com/hotels/24000000/23320000/23315200/23315180/e81fcb4d.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Hotel Monastyrski Minsk City Centre",
+        "id": "9091465",
+        "distance": 0.2,
+        "price": 55.83,
+        "image_main": "https://images.trvl-media.com/hotels/10000000/9100000/9091500/9091465/d1cabb48.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Victoria Olimp Hotel Minsk",
+        "id": "8783264",
+        "distance": 3.52,
+        "price": 56.21,
+        "image_main": "https://images.trvl-media.com/hotels/9000000/8790000/8783300/8783264/634117b4.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Green Park Hotel Airport Minsk",
+        "id": "28865487",
+        "distance": 17.34,
+        "price": 60,
+        "image_main": "https://images.trvl-media.com/hotels/29000000/28870000/28865500/28865487/c56c6688.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Victoria Hotel and SPA",
+        "id": "18111803",
+        "distance": 1.81,
+        "price": 61.75,
+        "image_main": "https://images.trvl-media.com/hotels/19000000/18120000/18111900/18111803/56657a6a.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "MinskLux Apartment Lenina str. 4",
+        "id": "45291473",
+        "distance": 0.27,
+        "price": 61.87,
+        "image_main": "https://images.trvl-media.com/hotels/46000000/45300000/45291500/45291473/0ac48f32.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Victoria na Zamkovoy Hotel",
+        "id": "18117795",
+        "distance": 0.54,
+        "price": 65.71,
+        "image_main": "https://images.trvl-media.com/hotels/19000000/18120000/18117800/18117795/c85254fc.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Zalkind Hotel Rooms&Kitchen",
+        "id": "73518017",
+        "distance": 0.45,
+        "price": 66,
+        "image_main": "https://images.trvl-media.com/hotels/74000000/73520000/73518100/73518017/35a97deb.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "MinskLux Apartment Engelsa str. 12",
+        "id": "45291474",
+        "distance": 0.26,
+        "price": 66,
+        "image_main": "https://images.trvl-media.com/hotels/46000000/45300000/45291500/45291474/3d9a0175.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "MinskLux Apartments 2 bedrooms on Nezavisimosti ave. 16",
+        "id": "48286395",
+        "distance": 0.51,
+        "price": 67.5,
+        "image_main": "https://images.trvl-media.com/hotels/49000000/48290000/48286400/48286395/914e8002.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Boutique Hotel Buta",
+        "id": "10076884",
+        "distance": 0.63,
+        "price": 71,
+        "image_main": "https://images.trvl-media.com/hotels/11000000/10080000/10076900/10076884/e8a9ce39.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Imperial Palace Hotel",
+        "id": "37654989",
+        "distance": 0.8,
+        "price": 71.5,
+        "image_main": "https://images.trvl-media.com/hotels/38000000/37660000/37655000/37654989/5dadddbf.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Crowne Plaza Minsk, an IHG Hotel",
+        "id": "2133573",
+        "distance": 0.71,
+        "price": 75,
+        "image_main": "https://images.trvl-media.com/hotels/3000000/2140000/2133600/2133573/5bbe40a3.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Hampton by Hilton Minsk City Centre",
+        "id": "12732620",
+        "distance": 1.28,
+        "price": 75,
+        "image_main": "https://images.trvl-media.com/hotels/13000000/12740000/12732700/12732620/935325a4.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "MinskLux Apartment on Nezavisimosti ave. 13",
+        "id": "45293164",
+        "distance": 0.6,
+        "price": 78.37,
+        "image_main": "https://images.trvl-media.com/hotels/46000000/45300000/45293200/45293164/db60c351.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Hotel Europe",
+        "id": "19893177",
+        "distance": 0.23,
+        "price": 78.52,
+        "image_main": "https://images.trvl-media.com/hotels/20000000/19900000/19893200/19893177/7e0c9192.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "The Basilian Minsk, Curio Collection By Hilton",
+        "id": "71554885",
+        "distance": 0.28,
+        "price": 100.83,
+        "image_main": "https://images.trvl-media.com/hotels/72000000/71560000/71554900/71554885/d62639af.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Minsk Marriott Hotel",
+        "id": "12805133",
+        "distance": 2.78,
+        "price": 112.66,
+        "image_main": "https://images.trvl-media.com/hotels/13000000/12810000/12805200/12805133/17b8ba31.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "DoubleTree by Hilton Hotel Minsk",
+        "id": "15468826",
+        "distance": 0.61,
+        "price": 127.5,
+        "image_main": "https://images.trvl-media.com/hotels/16000000/15470000/15468900/15468826/0fd1db67.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    },
+    {
+        "name": "Villa HomeMinsk",
+        "id": "25053091",
+        "distance": 6.09,
+        "price": 1323.26,
+        "image_main": "https://images.trvl-media.com/hotels/26000000/25060000/25053100/25053091/0e0b94e7.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    }
+]

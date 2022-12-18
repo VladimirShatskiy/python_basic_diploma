@@ -1,17 +1,10 @@
 from telebot.types import Message
-from main import bot
+
+from config_data.config import DEFAULT_COMMANDS
+from loader import bot
 
 
-def bot_help(message) -> None:
-    """
-    Telegram: /help
-    Вывод информации по функциям и подсказкам
-    :return: None
-    """
-    str_help = "Я пока в стадии разрабoтки \n\n" \
-               "в самое ближайшее время можно будет с помощью меня узнать\n" \
-               "1. Tоп самых дешёвых отелей в городе (команда /lowprice).\n" \
-               "2. Tоп самых дорогих отелей в городе (команда /highprice).\n" \
-               "3. Tоп отелей, наиболее подходящих по цене и расположению от центра (команда /bestdeal)\n" \
-               "4. Узнать историю поиска отелей (команда /history)\n"
-    bot.send_message(message.from_user.id, str_help)
+@bot.message_handler(commands=['help'])
+def bot_help(message: Message):
+    text = [f'/{command} - {desk}' for command, desk in DEFAULT_COMMANDS]
+    bot.reply_to(message, '\n'.join(text))
